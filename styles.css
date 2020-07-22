@@ -13,7 +13,7 @@ body{
     color: #fad744;
     text-shadow: 2px 5px #2b3252;
     margin-top: 50px;
-    text-transform:capitalize;
+    text-transform:uppercase;
 }
 #cards-grid{
     width: 100%;
