@@ -12,8 +12,10 @@ body{
     text-align: center;
     color: #fad744;
     text-shadow: 2px 5px #2b3252;
-    margin-top: 50px;
-    margin-bottom:0;
+    margin:0;
+    position:absolute;
+    top:3%;
+    left:50%;
   
 }
 #cards-grid{
