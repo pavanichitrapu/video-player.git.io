@@ -13,11 +13,12 @@ body{
     color: #fad744;
     text-shadow: 2px 5px #2b3252;
     margin-top: 50px;
+    margin-bottom:0;
   
 }
 #cards-grid{
     width: 100%;
-    padding: 5% 12%;
+    padding: 8% 12%;
     box-sizing: border-box;
     display: flex;
     flex-wrap: wrap;
